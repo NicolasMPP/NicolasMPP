@@ -1,5 +1,14 @@
-### Hi there 👋
+ 
+## Hola mi nombre es Nicolás M. Perez 👋
 
+### **Desarrollador Web Full Stack y Desarrollador Java**  
+  Desde pequeño siempre supe que el mundo IT era lo mío y desde entonces comenzó mi curiosidad por como funcionaba todo lo que veía en internet.  
+  Así fue como en 2017 empece mi camino estudiando Ingenieria en Sistemas de Informacion y formandome en paralelo a mis estudios formales.  
+  A finales del 2021 y comienzos del 2022, saliendo de la pandemia que nos afecto a todos fue cuando tuve un punto de inflexion, deje mis estudios formales y decidí seguir mi formación de forma autodidacta.  
+  Y así fue como empezó mi camino, primero en el desarrollo de aplicaciones en Java con Bases de Datos para luego caer en el Desarrollo Web.  
+  Habiendo sido formado tanto Java, su framework Spring y el uso de bases de datos tuve la oportunidad de liderar distintos grupos a lo largo de 8 meses mientras me formaba como Desarrollador Web Full Stack.  
+  Usando Java y MySQL para el BackEnd y luego HTML, CSS y JS para el Front End, para luego avanzar y hacer uso de ReactJs para proyectos.  
+  Fui formado en análisis y diseño de sistemas, gestión de contenidos online y consultoría. Además de un buen desempeño tanto en equipo como en solitario, experiencia didáctica y autodidacta para explicar, enseñar y dirigir.
 <!--
 **NicolasMPP/NicolasMPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
